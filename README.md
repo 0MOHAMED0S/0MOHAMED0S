@@ -14,7 +14,6 @@
 into robust and scalable web solutions.
 - 👨‍💻 Check out my portfolio at https://0mohamed0s.github.io/PORTFOLIO/ to see some of the projects I've worked on.
   
-<div align="center">
   ### 🛠 &nbsp;Tech Stack
 ![Php](https://img.shields.io/badge/-php%20-05122A?style=flat&logo=Php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
@@ -23,6 +22,6 @@ into robust and scalable web solutions.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-</div>
+
 
 
