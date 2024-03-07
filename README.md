@@ -9,12 +9,23 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back%20End%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+
+
 - 🏢 Hello there! I'm a passionate back-end developer specializing in PHP,API, Laravel, and MySQL.
  With a strong foundation in these technologies, I thrive on transforming innovative ideas 
 into robust and scalable web solutions.
 - 👨‍💻 Check out my portfolio at https://0mohamed0s.github.io/PORTFOLIO/ to see some of the projects I've worked on.
   
-  ### 🛠 &nbsp;Tech Stack
+<br>
+<hr>
+<br>
+
+
+<div align="center">
+
+
+ ### 🛠Tech Stack:<br><br>
+  
 ![Php](https://img.shields.io/badge/-php%20-05122A?style=flat&logo=Php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql)&nbsp;
@@ -23,5 +34,18 @@ into robust and scalable web solutions.
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+<br>
+<br>
 
+<hr>
 
+### 🔎Contact With Me:<br><br>
+<a href="https://www.linkedin.com/in/mohamed-sayed-back-end0/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/mohamed-sayed-back-end0/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+<a href="mailto:msa0back@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+
+<br>
+<br>
+
+<hr>
+</div>
