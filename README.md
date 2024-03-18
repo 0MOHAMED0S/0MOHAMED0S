@@ -41,7 +41,7 @@ into robust and scalable web solutions.
 
 ### 🔎Contact With Me:<br><br>
 <a href="https://www.linkedin.com/in/mohamed-sayed-back-end0/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://www.linkedin.com/in/mohamed-sayed-back-end0/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+<a href="https://www.facebook.com/profile.php?id=100042720670770&_rdc=1&_rdr"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
 <a href="https://wa.me/+201110562097"><img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="email"/></a>
 
 <br>
