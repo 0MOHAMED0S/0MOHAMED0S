@@ -14,7 +14,7 @@
 - 🏢 Hello there! I'm a passionate back-end developer specializing in PHP,API, Laravel, and MySQL.
  With a strong foundation in these technologies, I thrive on transforming innovative ideas 
 into robust and scalable web solutions.
-- 👨‍💻 Check out my portfolio at https://0mohamed0s.github.io/PORTFOLIO/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://mo-sayed.site/ to see some of the projects I've worked on.
   
 <br>
 <hr>
